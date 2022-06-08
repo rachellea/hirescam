@@ -1,4 +1,4 @@
-#2020-11-24-run-example.py
+#demo.py
 #Copyright (c) 2020 Rachel Lea Ballantyne Draelos
 
 #MIT License
